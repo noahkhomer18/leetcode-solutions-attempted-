@@ -1,4 +1,4 @@
-# LeetCode Solutions - Noah's Journey
+# LeetCode Solutions - My Journey
 
 Hi, my name is Noah. I have been working through as many LeetCode problems as I can, sometimes daily, sometimes weekly, but always at least once a week. My goal is to sharpen my skills in algorithms, data structures, and problem solving. For me, tackling these questions feels like solving puzzles, and it is incredibly satisfying.
 
