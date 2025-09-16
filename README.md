@@ -4,7 +4,7 @@ Hi, my name is Noah. I have been working through as many LeetCode problems as I 
 
 I want to climb the rankings, improve my solutions, and keep getting ahead. The truth is, LeetCode feels like a game when you approach it that way. Growing up, I was hooked on video games like GTA Online, Warframe on PC, PlayStation titles, and arcade games. The reason they were so addictive was the ranking systems, competition, and the value you could attach to your name. LeetCode has that same appeal: the drive to improve, compete, and showcase progress.
 
-That is why I commit all my solutions to this repo. A little about me, I am a double major, I have been coding since I was 12, and I truly enjoy building and learning. When you treat life like a game, you cannot afford to lose. You give it your best every time.
+That is why I commit all my solutions to this repo. A little about me, I am a double major (computer science, business admin), I have been coding since I was 12, and I truly enjoy building and learning. When you treat life like a game, you cannot afford to lose. You give it your best every time.
 
 **Knowledge is power.**
 
