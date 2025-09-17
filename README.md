@@ -54,6 +54,7 @@ Each solution includes:
 - [x] **004 - Median of Two Sorted Arrays** (Hard) - Binary Search with O(log(min(m,n))) time complexity
 - [x] **005 - Longest Palindromic Substring** (Medium) - Expand Around Centers with O(n²) time complexity
 - [x] **006 - Zigzag Conversion** (Medium) - Row-by-Row approach with O(n) time complexity
+- [x] **007 - Reverse Integer** (Medium) - String reversal with overflow detection, O(log n) time complexity
 
 ## Progress Tracking
 
