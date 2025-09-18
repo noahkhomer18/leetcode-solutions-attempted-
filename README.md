@@ -55,6 +55,7 @@ Each solution includes:
 - [x] **005 - Longest Palindromic Substring** (Medium) - Expand Around Centers with O(n²) time complexity
 - [x] **006 - Zigzag Conversion** (Medium) - Row-by-Row approach with O(n) time complexity
 - [x] **007 - Reverse Integer** (Medium) - String reversal with overflow detection, O(log n) time complexity
+- [x] **008 - String to Integer (atoi)** (Medium) - String parsing with overflow detection, O(n) time complexity
 
 ## Progress Tracking
 
