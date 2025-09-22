@@ -56,6 +56,7 @@ Each solution includes:
 - [x] **006 - Zigzag Conversion** (Medium) - Row-by-Row approach with O(n) time complexity
 - [x] **007 - Reverse Integer** (Medium) - String reversal with overflow detection, O(log n) time complexity
 - [x] **008 - String to Integer (atoi)** (Medium) - String parsing with overflow detection, O(n) time complexity
+- [x] **009 - Palindrome Number** (Easy) - Reverse half without strings, O(log n) time
 
 ## Progress Tracking
 
