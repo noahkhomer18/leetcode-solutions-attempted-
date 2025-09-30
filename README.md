@@ -21,12 +21,6 @@ I've been working through LeetCode problems consistently, treating each challeng
 
 > 💡 *"When you treat life like a game, you cannot afford to lose. You give it your best every time."*
 
-**About Me:**
-- 🎓 **Double major:** Computer Science & Business Administration
-- 💻 **Coding since age 12** - Building and learning since childhood
-- 🎮 **Former gaming enthusiast** - GTA Online, Warframe, PlayStation titles
-- 🏆 **Competitive spirit** drives my LeetCode journey
-
 Growing up, I was hooked on video games like GTA Online, Warframe on PC, PlayStation titles, and arcade games. The reason they were so addictive was the ranking systems, competition, and the value you could attach to your name. LeetCode has that same appeal: the drive to improve, compete, and showcase progress.
 
 That is why I commit all my solutions to this repo. A little about me, I am a double major (computer science, business admin), I have been coding since I was 12, and I truly enjoy building and learning. When you treat life like a game, you cannot afford to lose. You give it your best every time.
