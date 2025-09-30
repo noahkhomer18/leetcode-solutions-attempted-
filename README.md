@@ -15,22 +15,17 @@
 
 ## 🎯 About Me
 
-<div align="center">
-
-### 👋 Hi, I'm **Noah** - A Passionate Problem Solver!
-
-</div>
+Hi, I'm **Noah** 👋 - a passionate problem solver and coding enthusiast!
 
 I've been working through LeetCode problems consistently, treating each challenge like a puzzle waiting to be solved. My goal is to sharpen my skills in algorithms, data structures, and problem-solving while climbing the rankings.
 
-<div align="center">
+> *"When you treat life like a game, you cannot afford to lose. You give it your best every time."*
 
-| 🎓 **Education** | 💻 **Experience** | 🎮 **Background** | 🏆 **Mindset** |
-|------------------|-------------------|-------------------|----------------|
-| Double Major: CS & Business | Coding since age 12 | Former gaming enthusiast | Competitive spirit drives my journey |
-| | | GTA Online, Warframe, PlayStation | |
-
-</div>
+**About Me:**
+- 🎓 Double major: Computer Science & Business Administration
+- 💻 Coding since age 12
+- 🎮 Former gaming enthusiast (GTA Online, Warframe, PlayStation)
+- 🏆 Competitive spirit drives my LeetCode journey
 
 ---
 
