@@ -29,12 +29,12 @@ That is why I commit all my solutions to this repo. A little about me, I am a do
 
 <div align="center">
 
-### 🏆 **Total Problems Solved: 10**
+### 🏆 **Total Problems Solved: 13**
 
 | Difficulty | Count | Progress | Status |
 |------------|-------|----------|---------|
-| 🟢 **Easy** | **2** | ████████░░ 80% | 🚀 Active |
-| 🟡 **Medium** | **6** | ███████████████████ 100% | ✅ Complete |
+| 🟢 **Easy** | **3** | ████████████░░ 100% | ✅ Complete |
+| 🟡 **Medium** | **8** | ███████████████████ 100% | ✅ Complete |
 | 🔴 **Hard** | **2** | ████████░░ 80% | 🔥 Challenging |
 
 </div>
@@ -138,6 +138,9 @@ That is why I commit all my solutions to this repo. A little about me, I am a do
 | [Add Two Numbers](problems/002-add-two-numbers/) | 🟡 Medium | Linked List | O(max(m,n)) |
 | [Longest Substring](problems/003-longest-substring-without-repeating-characters/) | 🟡 Medium | Sliding Window | O(n) |
 | [Median of Arrays](problems/004-median-of-two-sorted-arrays/) | 🔴 Hard | Binary Search | O(log(min(m,n))) |
+| [Container With Most Water](problems/011-container-with-most-water/) | 🟡 Medium | Two Pointers | O(n) |
+| [Integer to Roman](problems/012-integer-to-roman/) | 🟡 Medium | Greedy | O(1) |
+| [Roman to Integer](problems/013-roman-to-integer/) | 🟢 Easy | Hash Map | O(n) |
 
 </div>
 
