@@ -126,13 +126,9 @@ That is why I commit all my solutions to this repo. A little about me, I am a do
 
 ## 🔗 Connect With Me
 
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-@noahkhomer18-181717?style=for-the-badge&logo=github)](https://github.com/noahkhomer18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-noahkhomer18-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noahkhomer18)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/noahkhomer18/)
-
-</div>
 
 ---
 
