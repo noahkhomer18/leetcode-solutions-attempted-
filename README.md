@@ -1,11 +1,11 @@
-<div align="center">
-
 # 🚀 LeetCode Solutions - My Journey
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noahkhomer18)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+
+<div align="center">
 
 ### 🎯 *"When you treat life like a game, you cannot afford to lose. You give it your best every time."*
 
@@ -147,9 +147,9 @@ That is why I commit all my solutions to this repo. A little about me, I am a do
 
 ---
 
-<div align="center">
-
 ### 💡 **Knowledge is Power**
+
+<div align="center">
 
 *"The drive to improve, compete, and showcase progress - that's what makes this journey worthwhile."*
 
