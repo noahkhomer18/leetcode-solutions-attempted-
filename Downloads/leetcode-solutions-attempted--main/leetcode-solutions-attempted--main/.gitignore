@@ -1,9 +1,0 @@
-# Ignore everything in the Downloads folder and user directory
-../*
-../../*
-../../../*
-
-# Keep only the repository files
-!README.md
-!problems/
-!problems/**
