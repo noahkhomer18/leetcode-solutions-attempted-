@@ -27,8 +27,6 @@ That is why I commit all my solutions to this repo. A little about me, I am a do
 
 ## 📊 Progress Dashboard
 
-<div align="center">
-
 ### 🏆 **Total Problems Solved: 13**
 
 | Difficulty | Count | Progress | Status |
@@ -36,10 +34,6 @@ That is why I commit all my solutions to this repo. A little about me, I am a do
 | 🟢 **Easy** | **3** | ████████████░░ 100% | ✅ Complete |
 | 🟡 **Medium** | **8** | ███████████████████ 100% | ✅ Complete |
 | 🔴 **Hard** | **2** | ████████░░ 80% | 🔥 Challenging |
-
-</div>
-
-<div align="center">
 
 ### 📈 **Recent Activity**
 
@@ -49,17 +43,11 @@ That is why I commit all my solutions to this repo. A little about me, I am a do
 🔥 Hot Streak: 3 problems in a row!
 ```
 
-</div>
-
 ---
 
 ## 🎨 Repository Structure
 
-<div align="center">
-
 ### 📁 **Organized & Clean Structure**
-
-</div>
 
 ```
 📁 problems/
@@ -77,8 +65,6 @@ That is why I commit all my solutions to this repo. A little about me, I am a do
 └── ...                                # More problems coming soon!
 ```
 
-<div align="center">
-
 ### 🎯 **Key Features**
 
 | Feature | Description | Status |
@@ -88,11 +74,7 @@ That is why I commit all my solutions to this repo. A little about me, I am a do
 | 📊 **Complexity Analysis** | Time & space complexity | ✅ Complete |
 | 🧪 **Test Cases** | Comprehensive testing | ✅ Complete |
 
-</div>
-
 ## 📋 Naming Convention
-
-<div align="center">
 
 | Component | Format | Example |
 |----------|--------|---------|
@@ -100,15 +82,9 @@ That is why I commit all my solutions to this repo. A little about me, I am a do
 | **Solution files** | `solution.py` | `solution.py` |
 | **Documentation** | `README.md` | `README.md` |
 
-</div>
-
 ## ✨ Solution Documentation
 
-<div align="center">
-
 ### 🎯 **What Each Solution Includes**
-
-</div>
 
 | Feature | Description | Icon |
 |---------|-------------|------|
@@ -128,8 +104,6 @@ That is why I commit all my solutions to this repo. A little about me, I am a do
 
 ---
 
-<div align="center">
-
 ## 🌟 **Featured Solutions**
 
 | Problem | Difficulty | Approach | Time Complexity |
@@ -141,8 +115,6 @@ That is why I commit all my solutions to this repo. A little about me, I am a do
 | [Container With Most Water](problems/011-container-with-most-water/) | 🟡 Medium | Two Pointers | O(n) |
 | [Integer to Roman](problems/012-integer-to-roman/) | 🟡 Medium | Greedy | O(1) |
 | [Roman to Integer](problems/013-roman-to-integer/) | 🟢 Easy | Hash Map | O(n) |
-
-</div>
 
 ---
 
